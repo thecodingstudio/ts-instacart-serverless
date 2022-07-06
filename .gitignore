@@ -7,3 +7,5 @@ package-lock.json
 
 # Serverless directories
 .serverless
+
+serverless.yml
